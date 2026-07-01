@@ -87,15 +87,6 @@ npm install
 npm run dev
 
 
-## Admin
-
-cd admin
-
-npm install
-
-npm run dev
-
-
 # Future Improvements
 
 - Order Tracking
