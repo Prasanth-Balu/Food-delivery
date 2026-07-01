@@ -68,24 +68,33 @@ It also includes a dedicated Admin Panel for managing food items and customer or
 
 # Installation
 
+
 ## Backend
 
 cd backend
+
 npm install
+
 npm run server
+
 
 ## Frontend
 
 cd frontend
+
 npm install
+
 npm run dev
 
 
 ## Admin
 
 cd admin
+
 npm install
+
 npm run dev
+
 
 # Future Improvements
 
@@ -98,4 +107,5 @@ npm run dev
 
 
 #Author
+
 prasanth B
