@@ -71,7 +71,6 @@ It also includes a dedicated Admin Panel for managing food items and customer or
 ## Backend
 
 cd backend
-
 npm install
 npm run server
 
