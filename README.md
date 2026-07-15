@@ -76,7 +76,7 @@ It also includes a dedicated Admin Panel for managing food items and customer or
 ### Log in
 <img width="1896" height="882" alt="Screenshot (89)" src="https://github.com/user-attachments/assets/df781711-8c3a-468e-b117-e866646e9c9f" />
 
-### Menu 
+### view Food Details
 <img width="1920" height="889" alt="Screenshot (91)" src="https://github.com/user-attachments/assets/eb2ea079-9305-4529-a567-0d0176b602ff" />
 
 
