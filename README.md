@@ -105,27 +105,6 @@ It also includes a dedicated Admin Panel for managing food items and customer or
 <img width="1920" height="1080" alt="Screenshot (99)" src="https://github.com/user-attachments/assets/e8b88be7-6dc0-4a93-b47e-f8d93df2249e" />
 
 
-# Installation
-
-
-## Backend
-
-cd backend
-
-npm install
-
-npm run server
-
-
-## Frontend
-
-cd frontend
-
-npm install
-
-npm run dev
-
-
 # Future Improvements
 
 - Order Tracking
