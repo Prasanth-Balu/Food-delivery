@@ -101,7 +101,7 @@ It also includes a dedicated Admin Panel for managing food items and customer or
 ### List Items
 <img width="1903" height="893" alt="Screenshot (98)" src="https://github.com/user-attachments/assets/0686b60f-1f72-41bd-968c-bc1c45a6f04b" />
 
-### Track user order
+### Manage order status
 <img width="1920" height="1080" alt="Screenshot (99)" src="https://github.com/user-attachments/assets/e8b88be7-6dc0-4a93-b47e-f8d93df2249e" />
 
 
